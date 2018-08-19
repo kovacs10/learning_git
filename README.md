@@ -1,3 +1,3 @@
 "# learning_git" 
 
-# feature brnch
+# feature branch
